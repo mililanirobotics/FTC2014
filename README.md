@@ -1,4 +1,4 @@
 FTC2014
 =======
 
-Team 7438 & 7851's FTC Cascade Effect code
+Team 7438's FTC Cascade Effect code
